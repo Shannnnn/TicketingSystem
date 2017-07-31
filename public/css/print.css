@@ -1,0 +1,17 @@
+@media print {
+
+.ui.layout {display:none;}
+.ui.assigning {display:none;}
+.column.status.tag {display:none;}
+.positive.button {display:none;}
+.negative.button {display:none;}
+.ui.teal.label {display:none;}
+.right menu {display:none;}
+.ui.buttons {display:none;}
+.ui.dropdown.assign {display:none;}
+.ui.button.reply {display:none;}
+.ui.close {display:none;}
+#comment {display:none;}
+#assign_ticket {display:none;}
+#change_status {display:none;}
+}

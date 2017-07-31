@@ -1,0 +1,17 @@
+.dataTables_wrapper {
+    margin-top: 20px;
+}
+
+.borderless-input {
+    border: none;
+    border-color: transparent;
+}
+
+.borderless-input:focus {
+    outline: none !important;
+}
+
+.daterangepicker {
+    display: none;
+    border: solid 1px #ddd;
+}
